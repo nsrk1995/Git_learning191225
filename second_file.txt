@@ -1,2 +1,5 @@
 Hi
+
 This is second file of the day
+
+Hi from Git Bash

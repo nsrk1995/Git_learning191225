@@ -1,2 +1,6 @@
 Hi,
+
 This is today first file
+
+Updating this line from GIT Bash....
+
