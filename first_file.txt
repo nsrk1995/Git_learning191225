@@ -4,3 +4,4 @@ This is today first file
 
 Updating this line from GIT Bash....
 
+Hi this is my another update from Git Bash
